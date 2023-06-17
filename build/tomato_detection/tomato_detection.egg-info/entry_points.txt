@@ -1,0 +1,3 @@
+[console_scripts]
+tomato_node = tomato_detection.tomato_node:main
+

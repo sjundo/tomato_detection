@@ -1,0 +1,19 @@
+[0.433s] Invoking command in '/home/shj/ros2_ws/build/tomato_detection': PYTHONPATH=/home/shj/ros2_ws/build/tomato_detection/prefix_override:/home/shj/ros2_ws/install/tomato_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shj/ros2_ws/build/tomato_detection/build --no-deps install_data
+[0.572s] /home/shj/.local/lib/python3.8/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.572s]   warnings.warn(
+[0.598s] running develop
+[0.686s] running egg_info
+[0.687s] writing tomato_detection.egg-info/PKG-INFO
+[0.687s] writing dependency_links to tomato_detection.egg-info/dependency_links.txt
+[0.687s] writing entry points to tomato_detection.egg-info/entry_points.txt
+[0.687s] writing requirements to tomato_detection.egg-info/requires.txt
+[0.687s] writing top-level names to tomato_detection.egg-info/top_level.txt
+[0.687s] reading manifest file 'tomato_detection.egg-info/SOURCES.txt'
+[0.688s] writing manifest file 'tomato_detection.egg-info/SOURCES.txt'
+[0.707s] running build_ext
+[0.708s] Creating /home/shj/ros2_ws/install/tomato_detection/lib/python3.8/site-packages/tomato-detection.egg-link (link to .)
+[0.708s] Installing tomato_node script to /home/shj/ros2_ws/install/tomato_detection/lib/tomato_detection
+[0.708s] 
+[0.708s] Installed /home/shj/ros2_ws/build/tomato_detection
+[0.708s] running install_data
+[0.726s] Invoked command in '/home/shj/ros2_ws/build/tomato_detection' returned '0': PYTHONPATH=/home/shj/ros2_ws/build/tomato_detection/prefix_override:/home/shj/ros2_ws/install/tomato_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shj/ros2_ws/build/tomato_detection/build --no-deps install_data

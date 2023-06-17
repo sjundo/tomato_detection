@@ -1,0 +1,16 @@
+{
+  "cmake.configureSettings": {
+      "CMAKE_EXPORT_COMPILE_COMMANDS": "YES"
+  },
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.sourceDirectory": "${workspaceFolder}/src",
+  "cmake.configureOnOpen": true,
+  "ros.envPath": "/opt/ros/foxy/bin",
+  "ros.terminalOptions": [
+      "-x"
+  ],
+  "ros.autoStartup": true,
+  "ros.pathAliases": {
+      "${workspaceFolder}/src": "${workspaceFolder}"
+  }
+}

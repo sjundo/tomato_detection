@@ -1,0 +1,33 @@
+[0.468s] Invoking command in '/home/shj/ros2_ws/src/tomato_detection': PYTHONPATH=/home/shj/ros2_ws/src/build/tomato_detection/prefix_override:/home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tomato_detection build --build-base /home/shj/ros2_ws/src/build/tomato_detection/build install --record /home/shj/ros2_ws/src/build/tomato_detection/install.log --install-scripts $base/lib/tomato_detection --single-version-externally-managed
+[0.614s] running egg_info
+[0.615s] creating ../build/tomato_detection/tomato_detection.egg-info
+[0.615s] writing ../build/tomato_detection/tomato_detection.egg-info/PKG-INFO
+[0.615s] writing dependency_links to ../build/tomato_detection/tomato_detection.egg-info/dependency_links.txt
+[0.615s] writing entry points to ../build/tomato_detection/tomato_detection.egg-info/entry_points.txt
+[0.615s] writing requirements to ../build/tomato_detection/tomato_detection.egg-info/requires.txt
+[0.615s] writing top-level names to ../build/tomato_detection/tomato_detection.egg-info/top_level.txt
+[0.617s] writing manifest file '../build/tomato_detection/tomato_detection.egg-info/SOURCES.txt'
+[0.639s] reading manifest file '../build/tomato_detection/tomato_detection.egg-info/SOURCES.txt'
+[0.640s] writing manifest file '../build/tomato_detection/tomato_detection.egg-info/SOURCES.txt'
+[0.640s] running build
+[0.640s] running build_py
+[0.640s] creating /home/shj/ros2_ws/src/build/tomato_detection/build
+[0.640s] creating /home/shj/ros2_ws/src/build/tomato_detection/build/lib
+[0.640s] creating /home/shj/ros2_ws/src/build/tomato_detection/build/lib/tomato_detection
+[0.640s] copying tomato_detection/__init__.py -> /home/shj/ros2_ws/src/build/tomato_detection/build/lib/tomato_detection
+[0.640s] running install
+[0.641s] running install_lib
+[0.641s] creating /home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages/tomato_detection
+[0.641s] copying /home/shj/ros2_ws/src/build/tomato_detection/build/lib/tomato_detection/__init__.py -> /home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages/tomato_detection
+[0.641s] byte-compiling /home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages/tomato_detection/__init__.py to __init__.cpython-38.pyc
+[0.642s] running install_data
+[0.642s] creating /home/shj/ros2_ws/src/install/tomato_detection/share/ament_index
+[0.642s] creating /home/shj/ros2_ws/src/install/tomato_detection/share/ament_index/resource_index
+[0.643s] creating /home/shj/ros2_ws/src/install/tomato_detection/share/ament_index/resource_index/packages
+[0.643s] copying resource/tomato_detection -> /home/shj/ros2_ws/src/install/tomato_detection/share/ament_index/resource_index/packages
+[0.643s] copying package.xml -> /home/shj/ros2_ws/src/install/tomato_detection/share/tomato_detection
+[0.643s] running install_egg_info
+[0.644s] Copying ../build/tomato_detection/tomato_detection.egg-info to /home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages/tomato_detection-0.0.0-py3.8.egg-info
+[0.644s] running install_scripts
+[0.656s] writing list of installed files to '/home/shj/ros2_ws/src/build/tomato_detection/install.log'
+[0.680s] Invoked command in '/home/shj/ros2_ws/src/tomato_detection' returned '0': PYTHONPATH=/home/shj/ros2_ws/src/build/tomato_detection/prefix_override:/home/shj/ros2_ws/src/install/tomato_detection/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tomato_detection build --build-base /home/shj/ros2_ws/src/build/tomato_detection/build install --record /home/shj/ros2_ws/src/build/tomato_detection/install.log --install-scripts $base/lib/tomato_detection --single-version-externally-managed
